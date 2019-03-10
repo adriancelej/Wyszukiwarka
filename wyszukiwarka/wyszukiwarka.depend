@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1496610439 source:c:\users\adria\desktop\pw\podstawy programowania\programy projekty\wyszukiwarka\main.c
+	"funkcje.h"
+
+1497183735 c:\users\adria\desktop\pw\podstawy programowania\programy projekty\wyszukiwarka\funkcje.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1497183501 source:c:\users\adria\desktop\pw\podstawy programowania\programy projekty\wyszukiwarka\funkcje.c
+	"funkcje.h"
+
